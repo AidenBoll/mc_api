@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 
 ## Run
-Ensure your Python virtual environment is activate. See above.
+Ensure your Python virtual environment is active. See above.
 
 Run the following command to start the API server:
 ```sh
